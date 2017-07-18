@@ -12,9 +12,9 @@ GCE module and passes them to the Android Library for display.
 <img src="http://i.imgur.com/yhSgbGS.png"/>
 
 ### Screenshots:
-<img src="http://i.imgur.com/0TC2LJd.jpg"/>
-<img src="http://i.imgur.com/JCp8OQg.jpg"/>
-<img src="http://i.imgur.com/59pNvAk.png"/>
+<img src="http://i.imgur.com/0TC2LJd.jpg" style="width: 50%; height: 50%" />
+<img src="http://i.imgur.com/JCp8OQg.jpg" style="width: 50%; height: 50%" />
+<img src="http://i.imgur.com/59pNvAk.png" style="width: 50%; height: 50%" />
 
 ## Why this Project
 
